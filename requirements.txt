@@ -1,0 +1,16 @@
+Django==2.0.4
+django-allauth==0.35.0
+django-filter==1.1.0
+django-geoposition==0.3.0
+django-rest-auth==0.9.3
+django-rest-framework-docs==0.1.7
+djangorestframework==3.7.7
+djangorestframework-gis==0.12
+drf-yasg==1.6.1
+httpie==0.9.9
+Markdown==2.6.10
+MarkupSafe==1.0
+matplotlib==2.1.1
+mccabe==0.6.1
+python-social-auth==0.3.6
+social-auth-core==1.7.0
